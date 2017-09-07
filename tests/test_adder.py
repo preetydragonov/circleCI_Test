@@ -6,4 +6,4 @@ def test_adder():
     b=4
     
     #THEN
-    assert a+b == 7
+    assert a+b == 8
