@@ -9,4 +9,4 @@ dependencies:
 
 test:
   post:
-    - pytest ./tests/test_adder.py
+    - pytest
