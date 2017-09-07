@@ -4,4 +4,4 @@ machine:
 
 test:
   post:
-    - export PYTHONPATH=.; pytest
+    - ./tests/test_adder.py
